@@ -3,8 +3,8 @@
 Bootstrap a clojure project for education and add required libraries to make a small webserver. Learning a little about Lisp, Clojure, FP, Leiningen, etc.
 
 ## Installation
-lein deps: install dependencies
-lein ring server: run local webserver
+lein deps: install dependencies \n
+lein ring server: run local webserver \n
 
 
 ## Usage
