@@ -1,10 +1,11 @@
 # compojure-app-demo
 
-FIXME: description
+Bootstrap a clojure project for education and add required libraries to make a small webserver. Learning a little about Lisp, Clojure, FP, Leiningen, etc.
 
 ## Installation
+lein deps: install dependencies
+lein ring server: run local webserver
 
-Download from http://example.com/FIXME.
 
 ## Usage
 
